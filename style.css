@@ -9,17 +9,17 @@ h1, h2 {
   font-family: 'Oswald', sans-serif;
 }
 
-#navigation ul {
+#navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
-#navigation li {
+#navbar li {
   display: inline;
 }
 
-#navigation a {
+#navbar a {
   margin-left: 75px;
   margin-right: 75px;
 }
