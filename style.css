@@ -1,6 +1,6 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  color: darkblue;
+  color: DarkBlue;
   margin: 10px 50px 10px 50px;
   background-color: Ivory;
 }
@@ -13,3 +13,6 @@ img {
   float: left;
   margin-right: 10px;
 }
+
+
+
